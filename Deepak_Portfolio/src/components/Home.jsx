@@ -2,7 +2,7 @@
 /* eslint-disable no-unused-vars */
 import React, { useEffect, useRef } from 'react'
 import Typed from 'typed.js';
-import MyImage from '../assests/my_pic.jpg'
+import MyImage from '../assests/My_Pic.jpeg'
 import { MdKeyboardArrowRight } from "react-icons/md";
 import {Link} from 'react-scroll'
 import {FaGithub,FaLinkedin} from 'react-icons/fa'
